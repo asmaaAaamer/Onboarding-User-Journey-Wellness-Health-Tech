@@ -66,5 +66,3 @@ To onboard new users effectively, ensure engagement with the platform, and estab
   - Percentage of users returning to the app after completing the onboarding journey.  
 
 ---
-
-This README provides a clear overview of the onboarding journey, ensuring that team members and stakeholders understand the process and goals.
