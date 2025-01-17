@@ -41,12 +41,6 @@ The **Onboarding Journey** is designed to welcome new users, guide them through 
 
 ---
 
-## Goal
-
-To onboard new users effectively, ensure engagement with the platform, and establish long-term retention and habit formation.
-
----
-
 ## Metrics to Measure Success
 
 - **Welcome Email Engagement:**  
