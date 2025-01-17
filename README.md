@@ -1,4 +1,5 @@
-# Onboarding Journey for New Users ([👉 Access the flow here](https://github.com/asmaaAaamer/Onboarding-User-Journey-Wellness-Health-Tech/blob/main/Onboarding-Flow.pdf))
+# Onboarding Journey for New Users 
+[👉 Access the flow here](https://github.com/asmaaAaamer/Onboarding-User-Journey-Wellness-Health-Tech/blob/main/Onboarding-Flow.pdf)
 
 **Company:** XYZ  
 **Industry:** Wellness & Health Tech  
