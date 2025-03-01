@@ -1,4 +1,4 @@
-# Onboarding Journey for New Users [👉 See the flow here](https://www.figma.com/board/PgDTWDDR4UG266ZZfLfo7D/Onboarding-Flow?node-id=0-1&t=X4xEyMCTYyRo1do4-1)
+# Onboarding Journey for New Users [👉 Click here to view the flow](https://www.figma.com/board/PgDTWDDR4UG266ZZfLfo7D/Onboarding-Flow?node-id=0-1&t=X4xEyMCTYyRo1do4-1)
 
 **Company:** XYZ  
 **Industry:** Wellness & Health Tech  
